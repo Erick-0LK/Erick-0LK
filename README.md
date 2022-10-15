@@ -1,0 +1,5 @@
+- 💬 Hello, my name is Erick. Nice to meet you!. I am twenty-one years old and a computer science college student.
+- ✨ The area of computer science has always fascinated me and my grandfather, who is still a programmer, introduced it to me.
+- ☕ I really like the Java programming language and I am also addicted to coffee. The more bitter it is, the better the taste.
+- 🐍 I also enjoy the Python programming language and will not hesitate to use when necessary.
+- 🌐 Portuguese is my mother language, but I am also fluent in English (C2 Level) and know some French.
