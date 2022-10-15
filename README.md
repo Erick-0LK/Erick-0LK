@@ -1,8 +1,8 @@
-- 💬 Hello, my name is Erick. Nice to meet you!. I am twenty-one years old and a computer science college student.
-- ✨ The area of computer science has always fascinated me and my grandfather, who is still a programmer, introduced it to me.
+- 💬 Hello, my name is Erick. Nice to meet you! I am twenty-one years old and a computer science college student.
+- ✨ The area of computer science fascinates me and my grandfather, who is still a programmer, introduced it to me.
 - ☕ Java is my favorite programming language. Moreover, I am addicted to coffee. The more bitter it is, the better the taste.
 - 🐍 I also enjoy the Python programming language and will not hesitate to use when necessary.
-- :man_student: While I mostly use Java and Python, I also know Ruby, C and C++, but I am not as fluent in them as I am in Java and Python.
+- :man_student: While I mostly use Java and Python, I also know Ruby, C and C++, but I am not as fluent in them as I am in Java or Python.
 - :book: I also know a lot about LaTeX and I use it a lot in college.
 - 🌐 Portuguese is my mother language, but I am also fluent in English (C2 Level) and know some French.
 
