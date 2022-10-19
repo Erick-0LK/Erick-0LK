@@ -6,6 +6,6 @@
 - :books: However, out of all the languages mentioned, I only know a lot of Java, Python, C and LaTeX.
 - 🌐 Portuguese is my mother language, but I am also fluent in English (C2 Level) and know some French.
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-0LK&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
