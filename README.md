@@ -5,7 +5,7 @@
 - ☕ Java is my favorite programming language. Moreover, I am addicted to coffee. The more bitter it is, the better the taste.
 - 🐍 I also enjoy the Python programming language and will not hesitate to use when necessary.
 - :school: I also have experience with C, C++, Ruby, Haskell, Verilog, Assembly and LaTeX, mostly due to college.
-- :books: However, out of all the languages mentioned, I only know a lot of Java, Python, C and LaTeX.
+- :books: However, out of all the languages mentioned, I only really know of Java, Python, C and LaTeX and object oriented programming.
 - 🌐 Portuguese is my mother language, but I am also fluent in English (C2 Level) and know some French.
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
