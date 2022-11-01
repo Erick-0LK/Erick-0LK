@@ -1,9 +1,8 @@
 # :man_student: Computer Science College Student at UFRGS
 
-- 💬 Hello, my name is Erick. Nice to meet you! I am twenty-one years old and a computer science college student.
-- ✨ The area of computer science fascinates me. My grandfather, who is still a programmer, introduced it to me.
-- ☕ Java is my favorite programming language. Moreover, I am addicted to coffee. The more bitter it is, the better the taste.
-- 🐍 I also enjoy the Python programming language and will not hesitate to use when necessary.
+- <p align="justify"> 💬 Hello, my name is Erick. Nice to meet you! I am twenty-one years old and a computer science college student. The area of computer science fascinates me. My grandfather, who is still a programmer, introduced it to me. However, I studied Applied Mathematics for a year before switching majors. </p>
+- <p align="justify"> ☕ Java is my favorite programming language. Moreover, I am addicted to coffee. Bitter, black coffee with cinnamon powder is my weakness. </p>
+- <p align="justify"> 🐍 I also enjoy the Python programming language and will not hesitate to use when necessary. </p>
 - :school: I also have experience with C, C++, Ruby, Haskell, Verilog, Assembly and LaTeX, mostly due to college.
 - :books: However, out of all the languages mentioned, I only really know of Java, Python, C and LaTeX and object oriented programming.
 - 🌐 Portuguese is my mother language, but I am also fluent in English (C2 Level) and know some French.
