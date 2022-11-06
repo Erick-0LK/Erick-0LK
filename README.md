@@ -15,5 +15,4 @@
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-0LK&layout=compact&theme=aura" />
     <img src = "https://github-readme-stats.vercel.app/api?username=Erick-0LK&show_icons=true&theme=aura" />
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Erick-0LK&theme=aura&repo=alfamidia" />
 </p>
