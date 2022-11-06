@@ -6,13 +6,15 @@
 - <p align="justify"> 🌐 Portuguese is my mother language, but I am also fluent in English (C2 Level) and know some French. I use Portuguese for my college repositories and English for basically everything else. </p>
 - <p align="justify"> 🌠 As a computer scientists in the making, I understand that I need a good understanding of both software and hardware, front-end and back-end. This is why I plan on focusing on C++, Java, Python, HTML, CSS, LaTeX, the MySQL databse and the Django framework. I am constantly studying and practicing languages and concepts outside of college. </p>
 
+# :mortar_board: Skills & Statistics
+
 <p align = "center">
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=vscode,c,cpp,java,python,latex,linkedin,github" />
+    <img src = "https://skillicons.dev/icons?i=github,vscode,linkedin,c,cpp,java,python,latex" />
   </a>
 </p>
 
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-0LK&layout=compact&theme=aura" />
     <img src = "https://github-readme-stats.vercel.app/api?username=Erick-0LK&show_icons=true&theme=aura" />
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-0LK&layout=compact&theme=aura" />
 </p>
