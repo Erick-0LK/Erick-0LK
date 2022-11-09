@@ -9,7 +9,7 @@
 
 <p align = "center">
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=github,vscode,linkedin,java,python,latex" />
+    <img src = "https://skillicons.dev/icons?i=github,vscode,linkedin,python,java,latex" />
   </a>
 </p>
 
