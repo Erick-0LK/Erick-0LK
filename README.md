@@ -15,5 +15,8 @@
 
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=Erick-0LK&show_icons=true&theme=radical" />
+</p>
+  
+<p align = "center">  
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-0LK&theme=radical" />
 </p>
