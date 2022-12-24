@@ -1,8 +1,9 @@
 # 👨‍💻 Erick Larratéa Knoblich
 
 - <p align = "justify"> 🙋‍♂️ Hello! My name is Erick and I am twenty-two years old. Nice to meet you and welcome to my GitHub profile! I hope you like the overall formatting and style as well as my repositories.
-- <p align = "justify"> 📚 I am computer science university student at the Federal University of Rio Grande do Sul. I have been majoring in computer science for over two years. Since the course covers both software and hardware, I have had experiences with a wide variety of programming langugages and integrated development environments. However, I am more comfortable with C# as the programming language and Visual Studio or Visual Studio Code as the integrated development environment. </p>
+- <p align = "justify"> 🎓 I am Computer Science university student at the Federal University of Rio Grande do Sul. I have been majoring in computer science for over two years, but I studied Applied Mathematics for one year before switching majors. </p>
 - <p align = "justify"> 💼 I am an intern at Stefanini, a private Brazilian multinational, service and software provider, for data processing and consulting. I am really glad to have gotten this opportunity and I hope to learn as much as possible. </p>
+- <p align = "justify"> 📚 As the Computer Science curriculum covers both software and hardware, I have had experiences with different programing languages and integrated development environments. Nevertheless, I prefer C# and Visual Studio or Visual Studio Code. </p>
 - <p align = "justify"> 🌐 Portuguese is my mother language, but I am also fluent in English (C2) and know some French (A2). I use Portuguese for my university repositories and English for basically everything else. </p>
 
 <div align="center">
