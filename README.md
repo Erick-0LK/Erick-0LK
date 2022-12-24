@@ -1,6 +1,6 @@
-# :man_student: Computer Science University Student at UFRGS
+# :man_technologist: Erick Larratéa Knoblich
 
-- <p align = "justify"> 💬 Hello, my name is Erick. Nice to meet you! I am twenty-two years old and a computer science university student at the Federal University of Rio Grande do Sul. The area of computer science fascinates me. Moreover, I am currently an intern at Stefanini.</p>
+- <p align = "justify"> :raising_hand_man: Hello, my name is Erick. Nice to meet you and welcome to my GitHub profile! I hope you like it.
 - <p align = "justify"> 📚 As I am a university student and the course covers both software and hardware, I have had experiences with a wide variety of programming langugages. However, C++ and C# are my programming languages of choice.</p>
 - <p align = "justify"> 🌐 Portuguese is my mother language, but I am also fluent in English (C2) and know some French (A1). I use Portuguese for my university repositories and English for basically everything else. </p>
 
