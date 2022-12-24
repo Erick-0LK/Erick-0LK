@@ -1,8 +1,9 @@
-# :man_technologist: Erick Larratéa Knoblich
+# 👨‍💻 Erick Larratéa Knoblich
 
-- <p align = "justify"> :raising_hand_man: Hello, my name is Erick. Nice to meet you and welcome to my GitHub profile! I hope you like it.
-- <p align = "justify"> 📚 As I am a university student and the course covers both software and hardware, I have had experiences with a wide variety of programming langugages. However, C++ and C# are my programming languages of choice.</p>
-- <p align = "justify"> 🌐 Portuguese is my mother language, but I am also fluent in English (C2) and know some French (A1). I use Portuguese for my university repositories and English for basically everything else. </p>
+- <p align = "justify"> 🙋‍♂️ Hello! My name is Erick and I am twenty-two years old. Nice to meet you and welcome to my GitHub profile! I hope you like the overall formatting and style as well as my repositories.
+- <p align = "justify"> 📚 I am computer science university student at the Federal University of Rio Grande do Sul. I have been majoring in computer science for over two years. Since the course covers both software and hardware, I have had experiences with a wide variety of programming langugages and integrated development environments. However, I am more comfortable with C# and Visual Studio. </p>
+- <p align = "justify"> 💼 I am an intern at Stefanini, a private Brazilian multinational, service and software provider, for data processing and consulting. I am really glad to have gotten this opportunity. </p>
+- <p align = "justify"> 🌐 Portuguese is my mother language, but I am also fluent in English (C2) and know some French (A2). I use Portuguese for my university repositories and English for basically everything else. </p>
 
 <div align="center">
     
